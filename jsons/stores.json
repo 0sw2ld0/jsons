@@ -1,0 +1,22 @@
+{
+	"stores": [
+		{
+			"name": "Park Comics Store",
+			"image": "https://lh3.googleusercontent.com/05yergoC3WumX_DO3EWJIyiUO9Y1HAZPibEd86hVN4m13P9GwBWC-O9FP_AjOk5LNw=w408-h408-k-no",
+			"lat": -12.0755334,
+			"lon": -77.0493182
+		},
+		{
+			"name": "Skull Comicstore",
+			"image": "https://lh3.googleusercontent.com/t09T-mWcnlcY15qswW74X4djhln2IQNZkyPs4STIwENffjtoXyf3HqzR9XGpWexgHQ=w425-h240-k-no",
+			"lat": -12.0817057,
+			"lon": -77.0403198
+		},
+		{
+			"name": "Shadowland Comics",
+			"image": "https://lh5.googleusercontent.com/p/AF1QipMzr-P1MTOcqL2h4donv_lT-hpPyb5nM4u0zC6j=w408-h306-k-no",
+			"lat": -12.075521,
+			"lon": -77.0545428
+		}
+	]
+}
